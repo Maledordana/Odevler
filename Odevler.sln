@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30907.101
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Odevler", "Odevler\Odevler.csproj", "{13CD0E65-6F93-4FF9-867B-45F2596E73D4}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Gun2Odev6", "Gun2Odev6\Gun2Odev6.csproj", "{3E176DDA-B551-4926-AA54-62A63B604C4B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Gun4Odev5", "Gun4Odev5\Gun4Odev5.csproj", "{9A5B5FBA-503E-4D1D-B172-206585FB083F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{13CD0E65-6F93-4FF9-867B-45F2596E73D4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{13CD0E65-6F93-4FF9-867B-45F2596E73D4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{13CD0E65-6F93-4FF9-867B-45F2596E73D4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{13CD0E65-6F93-4FF9-867B-45F2596E73D4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3E176DDA-B551-4926-AA54-62A63B604C4B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3E176DDA-B551-4926-AA54-62A63B604C4B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3E176DDA-B551-4926-AA54-62A63B604C4B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3E176DDA-B551-4926-AA54-62A63B604C4B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9A5B5FBA-503E-4D1D-B172-206585FB083F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9A5B5FBA-503E-4D1D-B172-206585FB083F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9A5B5FBA-503E-4D1D-B172-206585FB083F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9A5B5FBA-503E-4D1D-B172-206585FB083F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0AE33205-A415-4325-84C8-FB09965F3F04}
+	EndGlobalSection
+EndGlobal
